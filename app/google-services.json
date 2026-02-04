@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894331217180",
+    "project_id": "otpdemoapp-7447f",
+    "storage_bucket": "otpdemoapp-7447f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894331217180:android:c350390a5f9f5df59c46d9",
+        "android_client_info": {
+          "package_name": "com.example.lokal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxY9m4443NQmdcg8CYOVwNypDNUNe7fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
