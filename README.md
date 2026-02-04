@@ -302,29 +302,3 @@ If you'd like to contribute to this project:
 4. Commit your changes (`git commit -m 'Add some feature'`)
 5. Push to the branch (`git push origin feature/your-feature`)
 6. Open a Pull Request
-
----
-
-## Support
-
-If you encounter any issues not covered in this README:
-
-1. Check the [Issues](https://github.com/sanakhan8859/lokal/issues) page
-2. Create a new issue with detailed information about your problem
-3. Include error messages, screenshots, and system information
-
----
-
-## License
-
-This project's license information is not currently specified. Please check with the repository owner.
-
----
-
-## Contact
-
-For questions or suggestions, please open an issue on the GitHub repository.
-
----
-
-**Happy Coding! 🚀**
