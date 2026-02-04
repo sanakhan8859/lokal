@@ -14,6 +14,47 @@
 ## Project Description
 
 This is an Android application project built using Kotlin and Gradle build system.
+🔐 Email OTP Authentication App (Jetpack Compose)
+
+An Android application that demonstrates Email-based OTP authentication, session tracking, and user activity analytics using Jetpack Compose, MVVM architecture, and Firebase Analytics.
+
+This project is built as an academic submission and focuses on clean architecture, secure OTP handling, and modern Android UI practices.
+
+📌 Features
+
+📧 Email-based login using OTP
+
+🔢 Secure 6-digit OTP generation
+
+⏱ OTP expiry after 60 seconds
+
+🔁 Maximum 3 OTP attempts
+
+🔄 Resend OTP functionality
+
+🕒 Live session duration tracking
+
+📊 Firebase Analytics event logging
+
+🧠 MVVM architecture with clean separation of concerns
+
+🎨 Modern UI using Jetpack Compose
+
+🛠 Tech Stack
+
+Language: Kotlin
+
+UI: Jetpack Compose (Material 3)
+
+Architecture: MVVM
+
+State Management: Compose State + Sealed UI States
+
+Asynchronous Tasks: Kotlin Coroutines
+
+Analytics: Firebase Analytics
+
+Build Tool: Gradle
 
 ---
 
